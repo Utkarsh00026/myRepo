@@ -9,3 +9,5 @@
    dummy changes.
 
 New change added
+
+Added new change 2.
